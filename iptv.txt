@@ -86,6 +86,17 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
 
 电影频道,#genre#
+CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+CHC家庭电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC家庭电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC家庭电影,http://gxfrg007.8800.org:8282/tsfile/live/1095_1.m3u8
+CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+CHC动作电影,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
+CITY都市剧场,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CITY都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 经典影院,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 经典,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
