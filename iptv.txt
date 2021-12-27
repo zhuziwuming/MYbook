@@ -184,7 +184,7 @@ NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
 
 
-湖南直播,#genre#
+湖南频道,#genre#
 IPTV高清院线,http://39.134.240.3/PLTV/2/224/3221226334/index.m3u8
 IPTV古装剧场,http://36.158.158.18/PLTV/2/224/3221226326/index.m3u8
 IPTV古装剧场,http://39.134.240.3/PLTV/2/224/3221226326/index.m3u8
