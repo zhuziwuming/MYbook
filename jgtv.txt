@@ -1,0 +1,22 @@
+------版本更新-------
+<bb>1.0</bb>
+<rjm>竹子影视TV.apk</rjm>
+<url>http://192.168.0.22:8002/loading/竹子影视TV1.1.apk</url>
+<gxnr>     1.优化体验
+     
+     2.提升播放成功率</gxnr>
+
+
+------解析地址---------
+<jxgg0>http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=</jxgg0><--取源码解析-->
+<jxgg1>https://jx.parwix.com:4433/player/analysis.php?v=</jxgg1><--默认解析-->
+<jxgg2>https://jx.aidouer.net/?url=</jxgg2>
+<jxgg3>https://www.ckplayer.vip/jiexi/?url=</jxgg3>
+<jxgg4>https://www.1717yun.com/1717yun/?url=</jxgg4>
+<jxgg5>https://jx.m3u8.tv/jiexi/?url=</jxgg5>
+<jxgg6>https://z1.m1907.cn/?jx=</jxgg6>
+<jxgg7>https://jx.parwix.com:4433/player/analysis.php?v=</jxgg7>
+<jxgg8>https://okjx.cc/?url=</jxgg8>
+<jxgg9>https://jx.xmflv.com/?url=</jxgg9>
+<jxgg11>https://json.pangujiexi.com:12345/json.php?url=</jxgg11>
+
