@@ -9,7 +9,7 @@
 
 ------解析地址---------
 <jxgg0>http://66.xingyueju.com/?url=</jxgg0><--取源码解析-->
-<jxgg1>https://yun.nxflv.com/?url=</jxgg1><--默认解析-->
+<jxgg1>https://www.nxflv.com/?url=</jxgg1><--默认解析-->
 <jxgg2>https://jx.aidouer.net/?url=</jxgg2>
 <jxgg3>https://www.ckplayer.vip/jiexi/?url=</jxgg3>
 <jxgg4>https://www.1717yun.com/1717yun/?url=</jxgg4>
